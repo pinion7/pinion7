@@ -1,10 +1,7 @@
-# Space in Bakumando
+# Space in Bakumando 🚀 🛸
+Hi, I'm **Backend Engineer, Web Developer**
 
-- Hi, I'm **Backend Engineer, Web Developer**
-
-## About
-
-#### 🛠 Bakumando's Tech Stack
+### Tech Stack ⚙️
 
 <p>
   <img src="http://img.shields.io/badge/-HTML5-DD4B25?style=for-the-badge&logo=HTML5&logoColor=white"
@@ -21,14 +18,13 @@
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
 </p>
 
-#### ✍️ Notion
+### Profile 🔍 🌏
 
-[**바쿠만도** | Bakumando profile](https://www.notion.so/Bakumando-8578fdfa39544d108d276c6e5cad7e9d)
+[**바쿠만도** | Bakumando](https://www.notion.so/Bakumando-8578fdfa39544d108d276c6e5cad7e9d)
 
 <br>
+
+### Stats 🕋
 
 ![Bakumando's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinion7&count_private=true&show_icons=true&theme=calm&icon_color=78D9F8)
-
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinion7&layout=compact&card_width=445&hide=hack&theme=calm)
