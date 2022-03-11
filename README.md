@@ -16,9 +16,9 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-NEST-E0234E?style=for-the-badge&logo=nestjs" alt="nest"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring" alt="spring"
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logocolor=white" alt="spring"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot" alt="SpringBoot"
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logocolor=white" alt="SpringBoot"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   <img src="http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
@@ -30,7 +30,7 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-MongoDB-fff8dc?style=for-the-badge&logo=mongodb" alt="MongoDB"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB"
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logocolor=white" alt="MongoDB"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="http://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
@@ -42,7 +42,7 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-elasticsearch-20b2aa?style=for-the-badge&logo=elasticsearch"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis" alt="Redis"
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logocolor=white" alt="Redis"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
