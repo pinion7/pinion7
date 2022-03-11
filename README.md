@@ -31,4 +31,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinion7&layout=compact&card_width=445&hide=hack&theme=cobalt)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinion7&layout=compact&card_width=445&hide=hack&theme=cobalt)
