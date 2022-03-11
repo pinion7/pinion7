@@ -23,12 +23,12 @@
 
 #### ✍️ Notion
 
-[**바쿠만도** | \*\*Bakumando profile**](https://www.notion.so/Bakumando-8578fdfa39544d108d276c6e5cad7e9d)
+[**바쿠만도** | Bakumando profile](https://www.notion.so/Bakumando-8578fdfa39544d108d276c6e5cad7e9d)
 
 <br>
 
-![Bakumando's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinion7&count_private=true&show_icons=true&theme=cobalt&icon_color=78D9F8)
+![Bakumando's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinion7&count_private=true&show_icons=true&theme=calm&icon_color=78D9F8)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinion7&layout=compact&card_width=445&hide=hack&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinion7&layout=compact&card_width=445&hide=hack&theme=calm)
