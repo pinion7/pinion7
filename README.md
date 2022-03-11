@@ -4,12 +4,15 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
 ### ⚙️ Tech Stack 
 
 <p>
-  - <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
+  <ul>
+    <li>
+  <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=black" alt="TYPESCRIPT"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logocolor=white" alt="Java"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
+    </li>
   <img src="http://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=Node.js&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp 
   <img src="http://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white"
@@ -40,9 +43,9 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=Docker" alt="Docker"
+  <img src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-
+  </ul>
 </p>
 
 ### 🔍 Profile 
