@@ -20,17 +20,13 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
-  <img src="http://img.shields.io/badge/-MySQL-708090?style=for-the-badge&logo=MySQL&logoColor=white"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="http://img.shields.io/badge/-MariaDB-bc8f8f?style=for-the-badge&logo=MariaDB"
+  <img src="http://img.shields.io/badge/-MySQL-483d8b?style=for-the-badge&logo=MySQL&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="http://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="http://img.shields.io/badge/-MariaDB-1F305F?style=for-the-badge&logo=MariaDB"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-MongoDB-eee8aa?style=for-the-badge&logo=mongodb" alt="MongoDB"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logocolor=white" alt="MongoDB"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="http://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
