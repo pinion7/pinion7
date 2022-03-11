@@ -10,7 +10,7 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="http://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp 
-  <img src="http://img.shields.io/badge/-Express.js-373737?style=for-the-badge&logo=Express&logoColor=white"
+  <img src="http://img.shields.io/badge/-Express.js-339933?style=for-the-badge&logo=Express&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-NEST.JS-FF0055?style=for-the-badge&logo=nestjs" alt="nest"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
@@ -22,7 +22,7 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-MongoDB-54b404?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-MONGOOSE-a52a2a?style=for-the-badge&logo=mongodb" alt="Mongoose"
+  <img src="https://img.shields.io/badge/-MONGOOSE-a52a2a?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
