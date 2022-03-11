@@ -25,5 +25,5 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
 ### 🕋 Stats 
 
 ![Bakumando's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinion7&count_private=true&show_icons=true&theme=ayu-mirage&icon_color=78D9F8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinion7&layout=compact&card_width=445&theme=ayu-mirage&langs_count=8&exclude_repo=piba)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinion7&layout=compact&card_width=445&theme=ayu-mirage&langs_count=8&exclude_repo=piba7)](https://github.com/anuraghazra/github-readme-stats)
 
