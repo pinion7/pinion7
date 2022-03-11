@@ -6,13 +6,14 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
 <p>
   <ul>
     <li>
-  <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
+      <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=black" alt="TYPESCRIPT"
+      <img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=black" alt="TYPESCRIPT"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logocolor=white" alt="Java"
+      <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logocolor=white" alt="Java"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
     </li>
+    <li>
   <img src="http://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=Node.js&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp 
   <img src="http://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white"
@@ -23,6 +24,7 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+      </li>
   <img src="http://img.shields.io/badge/-MySQL-4682b4?style=for-the-badge&logo=MySQL&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="http://img.shields.io/badge/-MariaDB-191970?style=for-the-badge&logo=MariaDB"
