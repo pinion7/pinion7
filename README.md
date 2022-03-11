@@ -27,5 +27,5 @@
 
 <br>
 
-![Bakumando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bakumando&count_private=true&show_icons=true&theme=cobalt&icon_color=78D9F8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakumando&layout=compact&card_width=445&hide=hack&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Bakumando's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinion7&count_private=true&show_icons=true&theme=cobalt&icon_color=78D9F8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinion7&layout=compact&card_width=445&hide=hack&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
