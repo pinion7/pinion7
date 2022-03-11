@@ -15,6 +15,8 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
     </li>
     <li>
+      <img src="http://img.shields.io/badge/-Node-9acd32?style=for-the-badge&logo=Node.js&logoColor=white"
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp 
       <img src="http://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=Node.js&logoColor=white"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp 
       <img src="http://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white"
@@ -42,6 +44,8 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
       <img src="https://img.shields.io/badge/-MONGOOSE-a52a2a?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge&logo=Microsoft Access" alt="JPA"
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+      <img src="https://img.shields.io/badge/-JPA-339933?style=for-the-badge&logo=Microsoft Access" alt="JPA"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>
       <img src="https://img.shields.io/badge/-elasticsearch-20b2aa?style=for-the-badge&logo=elasticsearch"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
