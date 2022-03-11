@@ -16,23 +16,16 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   <img src="http://img.shields.io/badge/-Sequelize-00AFEE?style=for-the-badge&logo=Sequelize&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-TYPEORM-red?style=for-the-badge&logo=typeorm" alt="TypeOrm"
+  <img src="https://img.shields.io/badge/-TYPEORM-red?style=for-the-badge&logo=orm" alt="TypeOrm"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-MongoDB-54b404?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"
+  <img src="https://img.shields.io/badge/-MongoDB-54b404?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-MONGOOSE-a52a2a?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose"
+  <img src="https://img.shields.io/badge/-MONGOOSE-a52a2a?style=for-the-badge&logo=mongodb&logoColor=black" alt="Mongoose"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  
-  
-  <img src="https://img.shields.io/badge/BACK-NODE.JS-green?style=for-the-badge&logo=node.js" alt="node">
-  <img src="https://img.shields.io/badge/BACK-EXPRESS.JS-339933?style=for-the-badge&logo=express" alt="express">
-  <img src="https://img.shields.io/badge/BACK-MYSQL-256691?style=for-the-badge&logo=mysql" alt="MySql">
-  <img src="https://img.shields.io/badge/BACK-TYPEORM-red?style=for-the-badge&logo=typeorm" alt="TypeOrm">
-  <img src="https://img.shields.io/badge/DEPLOY-AWS S3-FF9900?style=for-the-badge&logo=amazonaws" alt="S3">
   
 </p>
 
