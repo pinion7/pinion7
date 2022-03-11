@@ -20,9 +20,9 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-MongoDB-54b404?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"
+  <img src="https://img.shields.io/badge/-MongoDB-fff8dc?style=for-the-badge&logo=mongodb" alt="MongoDB"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-MONGOOSE-a52a2a?style=for-the-badge&logo=mongodb&logoColor=black" alt="Mongoose"
+  <img src="https://img.shields.io/badge/-MONGOOSE-a52a2a?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
