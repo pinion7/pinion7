@@ -4,7 +4,7 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
 ### ⚙️ Tech Stack 
 
 <p>
-  <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
+  - <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=black" alt="TYPESCRIPT"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
@@ -20,11 +20,11 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
-  <img src="http://img.shields.io/badge/-MySQL-483d8b?style=for-the-badge&logo=MySQL&logoColor=white"
+  <img src="http://img.shields.io/badge/-MySQL-1F305F?style=for-the-badge&logo=MySQL&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="http://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB"
+  <img src="http://img.shields.io/badge/-MariaDB-191970?style=for-the-badge&logo=MariaDB"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="http://img.shields.io/badge/-MariaDB-1F305F?style=for-the-badge&logo=MariaDB"
+  <img src="http://img.shields.io/badge/-MariaDB-483d8b?style=for-the-badge&logo=MariaDB"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-MongoDB-eee8aa?style=for-the-badge&logo=mongodb" alt="MongoDB"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
