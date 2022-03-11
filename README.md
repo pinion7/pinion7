@@ -1,5 +1,5 @@
 # 🚀 🛸 Space in Bakumando 
-Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
+Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
 
 ### ⚙️ Tech Stack 
 
