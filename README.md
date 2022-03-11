@@ -1,5 +1,5 @@
 # 🚀 🛸 Space in Bakumando 
-Hi, I'm **Backend Engineer, Web Developer**
+Hi, I'm **Backend Engineer, Web Developer**, Welcome My World 🌏
 
 ### ⚙️ Tech Stack 
 
@@ -18,7 +18,7 @@ Hi, I'm **Backend Engineer, Web Developer**
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
 </p>
 
-### 🔍 🌏 Profile 
+### 🔍 Profile 
 
 [**바쿠만도** | Bakumando](https://www.notion.so/Bakumando-8578fdfa39544d108d276c6e5cad7e9d)
 
