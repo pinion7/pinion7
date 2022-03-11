@@ -24,16 +24,12 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World 🌏
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="http://img.shields.io/badge/-Sequelize-00AFEE?style=for-the-badge&logo=Sequelize&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="https://img.shields.io/badge/-typeorm-red.svg&?style=for-the-badge&logo=type" alt="TypeOrm"
+  <img src="https://img.shields.io/badge/-typeorm-red?style=for-the-badge&logo=Exercism" alt="TypeOrm"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-MONGOOSE-a52a2a?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img alt="typeorm" src ="https://img.shields.io/badge/https://user-images.githubusercontent.com/83815628/157932684-83e76823-422d-49e2-8787-594a341b2fa9.svg&style=for-the-badge&logo=typeorm
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  
-  ![typeorm](https://user-images.githubusercontent.com/83815628/157932684-83e76823-422d-49e2-8787-594a341b2fa9.svg)
 
 </p>
 
