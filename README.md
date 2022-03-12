@@ -7,8 +7,7 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
   <div markdown="1">
   <ul>
     <li>
-      <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
+      <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
       <img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=black" alt="TYPESCRIPT"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logocolor=white" alt="Java"
