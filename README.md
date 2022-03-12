@@ -18,19 +18,21 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
       <img src="http://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=Node.js&logoColor=white"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp 
       <img src="http://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white"
-           style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="https://img.shields.io/badge/-NEST-E0234E?style=for-the-badge&logo=nestjs" alt="nest"
-           style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"
-           style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot"
-           style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
     </li>
     <li>
       <img src="http://img.shields.io/badge/-MySQL-4682b4?style=for-the-badge&logo=MySQL&logoColor=white"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="http://img.shields.io/badge/-MariaDB-191970?style=for-the-badge&logo=MariaDB"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
+<!--       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp -->
       <img src="https://img.shields.io/badge/-MongoDB-eee8aa?style=for-the-badge&logo=mongodb" alt="MongoDB"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
     </li>
@@ -42,7 +44,7 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
       <img src="https://img.shields.io/badge/-MONGOOSE-a52a2a?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="https://img.shields.io/badge/-JPA-008000?style=for-the-badge&logo=Microsoft Access" alt="JPA"
-           style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="https://img.shields.io/badge/-elasticsearch-20b2aa?style=for-the-badge&logo=elasticsearch"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis"
@@ -51,8 +53,12 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
     <li>
       <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
+<!--       <img src="https://img.shields.io/badge/-azure-0078D4?style=for-the-badge&logo=Microsoft Azure" alt="Azure"
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp -->
       <img src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
+<!--       <img src="https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes"
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp -->
     </li>
   </ul>
   </div>
