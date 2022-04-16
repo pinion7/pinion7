@@ -45,8 +45,8 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="https://img.shields.io/badge/-JPA-008000?style=for-the-badge&logo=Microsoft Access" alt="JPA"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-      <img src="https://img.shields.io/badge/-elasticsearch-20b2aa?style=for-the-badge&logo=elasticsearch"
-           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
+<!--       <img src="https://img.shields.io/badge/-elasticsearch-20b2aa?style=for-the-badge&logo=elasticsearch"
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp -->
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
     </li>
