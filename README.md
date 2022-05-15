@@ -66,7 +66,10 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
 
 ### 🔍 Profile 
 
-[**바쿠만도** | Bakumando](https://www.notion.so/Bakumando-8578fdfa39544d108d276c6e5cad7e9d)
+[**바쿠만도 프로필** | Bakumando profile](https://www.notion.so/Bakumando-8578fdfa39544d108d276c6e5cad7e9d)
+
+### 📝 Blog
+[**바쿠만도 블로그** | Bakumando blog](https://velog.io/@pinion7)
 
 ### 🕋 Stats 
 
