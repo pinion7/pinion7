@@ -49,7 +49,6 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
 <!--       <img src="https://img.shields.io/badge/-elasticsearch-20b2aa?style=for-the-badge&logo=elasticsearch"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp -->
-
     </li>
     <li>
       <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS"
