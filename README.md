@@ -33,8 +33,8 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="https://img.shields.io/badge/-MongoDB-d3d3d3?style=for-the-badge&logo=mongodb&logoColor=339933" alt="MongoDB"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-      <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis"
-           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
+<!--       <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis"
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp -->
 <!--       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp -->
     </li>
