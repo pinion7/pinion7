@@ -13,8 +13,6 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=gradle&logocolor=white" alt="Java"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-       <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=gradle&logocolor=black" alt="Kotlin"
-           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
     </li>
     <li>
       <img src="http://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=Node.js&logoColor=white"
