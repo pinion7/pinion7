@@ -29,6 +29,8 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
     </li>
     <li>
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"
+           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       <img src="http://img.shields.io/badge/-MariaDB-191970?style=for-the-badge&logo=MariaDB"
@@ -37,8 +39,7 @@ Hi, I'm **Backend Engineer, Web Developer**. Welcome My World ~ 🌏
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
 <!--       <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp -->
-<!--       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"
-           style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp -->
+
     </li>
     <li>
       <img src="http://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
